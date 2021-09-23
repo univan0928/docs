@@ -1,7 +1,7 @@
 ---
 id: introduction
 title: The Uniswap V1 Protocol
-sidebar_position: 1
+sidebar_position: 1.0
 
 ---
 
